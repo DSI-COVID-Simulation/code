@@ -1,1 +1,1 @@
-This is a repository for the simulation code use in the manuscript Diagnostic Serial Interval as an Indicator for Effectiveness of Contact Tracing in the COVID-19 Pandemic - A Simulation Study (Mettler, 2021). 
+This is a repository for the simulation code use in the manuscript <Diagnostic Serial Interval as an Indicator for Effectiveness of Contact Tracing in the COVID-19 Pandemic - A Simulation Study> (Mettler, 2021). 
